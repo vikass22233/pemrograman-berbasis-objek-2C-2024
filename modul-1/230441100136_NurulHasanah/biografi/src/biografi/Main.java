@@ -3,18 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package biografi;
+//package biografi;
 
 class bio {
     String nama;
     String asal;
     String hobby;
+    String sekolah;
 }
 /**
  *
  * @author User
  */
-public class Biografi {
+public class Main {
 
     /**
      * @param args the command line arguments
@@ -25,9 +26,11 @@ public class Biografi {
         bioku.nama = "nurul hasanah";
         bioku.asal = "bangkalan";
         bioku.hobby = "gatau";
+        bioku.sekolah = "sman 2";
         System.out.println("halooo :"+bioku.nama);
         System.out.println("aku dari aja :"+bioku.asal);
         System.out.println("hobby ku :"+bioku.hobby);
+        System.out.println("aku alumni :"+bioku.sekolah);
     }
     
 }

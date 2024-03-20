@@ -1,2 +1,0 @@
-biografi.bio
-biografi.Biografi
