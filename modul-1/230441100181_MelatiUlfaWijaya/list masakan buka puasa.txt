@@ -5,4 +5,4 @@ rabu : capcay
 kamis : sambel terong
 jum'at : tumis kangkung
 sabtu : kering tahu
-minggu : nasi goreng
+minggu :  nasi goreng
