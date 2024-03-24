@@ -1,0 +1,5 @@
+kamis,21 maret 2024 : rapat internal
+jumat,22 maret 2024 : rapat akbar
+sabtu,23 maret 2024 : praktikum PBW
+minggu,24 maret 2024 : rapat koordinasi
+Senin,25 maret 2024 : rapat internal
